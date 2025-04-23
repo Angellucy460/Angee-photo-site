@@ -1,10 +1,10 @@
-##Angel Lucy's Photographic Site
+Angel Lucy's Photographic Site
 
 A portfolio and showcase site for photography services, April 2025
 
 By Angel Lucy
 
-#Description
+Description
 
 Angel Lucy's Photographic Site is a single-page portfolio designed to showcase beautiful photography work, highlight the use of high-quality legit cameras, and provide an easy way for visitors to get in touch. The site caters to individuals or organizations looking to have their photos captured professionally — whether during weddings, modeling competitions, or other special events. Visitors can browse photo portfolios and view the gear used to capture stunning images.
 
@@ -22,7 +22,7 @@ Known Bugs
 
 There are currently no known bugs.
 
-##Technologies Used
+Technologies Used
 
 -HTML
 
@@ -38,6 +38,6 @@ Feel free to reach out with questions, ideas, or booking requests:
 
 📞 Phone: +254 790781575
 
-##License
+License
 
 This project is licensed under the MIT License.Copyright (c) 2025 Angel Lucy.
